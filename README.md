@@ -12,6 +12,7 @@
 pip install openpyxl
 pip install xlrd==1.2.0
 ~~~
+7. tqdm
 ## pytorch常用的工具类和包
 1. torch2trt
 ~~~shell script
